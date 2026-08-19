@@ -7,7 +7,7 @@ Turma: 6B — Noturno
 
 ## Arquivos
 
-- `Exercicios_Python_[SeuNome]_[Turma]_[Periodo].ipynb` — lista de 50 exercícios de Python: entrada e saída, condicionais, laços, listas, dicionários, strings, ordenação, busca binária, cifra de César, validação de CPF e alguns jogos.
+- `Exercicios_Python_Luiz_Felipe_6B_Noturno.ipynb` — lista de 50 exercícios de Python: entrada e saída, condicionais, laços, listas, dicionários, strings, ordenação, busca binária, cifra de César, validação de CPF e alguns jogos.
 
 ## Observações
 
