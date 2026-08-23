@@ -9,8 +9,9 @@ Turma: 6B — Noturno
 
 - `Exercicios_Python_Luiz_Felipe_6B_Noturno.ipynb` — lista de 50 exercícios de Python: entrada e saída, condicionais, laços, listas, dicionários, strings, ordenação, busca binária, cifra de César, validação de CPF e alguns jogos.
 
-## Observações
+- 'Exercícios_DataScience_Luiz_Felipe_6B_Noturno.ipynb' — Atividades de Data Science com NumPy, SciPy, Pandas e Matplotlib
 
-Os notebooks foram feitos no Google Colab. Vários exercícios pedem `input()`, então a caixa de digitação aparece abaixo da célula ao rodar.
+## Links
 
-O exercício 28 usa `matplotlib`. No Colab já vem instalado; localmente, `pip install matplotlib`.
+- Notebook Python no Google Colab (https://colab.research.google.com/drive/1wL6ZT2QqMkueahAIRpeuBbJ3h8pnZqod?usp=sharing)
+- Notebook Data Science no Google Colab (https://colab.research.google.com/drive/1tYgd-IOA5KpXfcluTflRNg9ExedmPUUr?usp=sharing)
