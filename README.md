@@ -15,3 +15,4 @@ Turma: 6B — Noturno
 
 - Notebook Python no Google Colab (https://colab.research.google.com/drive/1wL6ZT2QqMkueahAIRpeuBbJ3h8pnZqod?usp=sharing)
 - Notebook Data Science no Google Colab (https://colab.research.google.com/drive/1tYgd-IOA5KpXfcluTflRNg9ExedmPUUr?usp=sharing)
+- - [Notebook Ataque Cardíaco + SVM no Kaggle](https://www.kaggle.com/code/luizcavalcanti4/summit-davimoraes-luizfelipe-ipynb)
